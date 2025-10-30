@@ -11,11 +11,15 @@ body{
     font-family: "Playfair Display", serif;
     font-weight: 300;
 }
+
 header{
     background-color: #798252;
-    color: #f4f0ea;
     text-align: center;
     padding: 2rem;
+    color: #f4f0ea;
+    padding: 2rem;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 main{
     padding: 2rem;
